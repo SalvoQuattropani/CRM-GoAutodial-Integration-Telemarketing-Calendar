@@ -1,0 +1,30 @@
+body {
+  color: #333;
+}
+
+
+
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+#examples a {
+  text-decoration: underline;
+}
+
+#entry_location{ width: 300px}
+
+.map_canvas { 
+  width: 30%; 
+  height:300px; 
+  margin: 20px 300px 300px 5px;
+position:absolute;
+float: left;
+}
+
+#multiple li { 
+  cursor: pointer; 
+  text-decoration: underline; 
+}
